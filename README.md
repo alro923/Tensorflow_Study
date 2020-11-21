@@ -1,6 +1,7 @@
 # Tensorflow_Study
 Tensor ≈ Study Group
 
+https://www.coursera.org/professional-certificates/tensorflow-in-practice
 
 ## Sequences, Time Series and Prediction - Week 3
 * 11/24 발표 예정
