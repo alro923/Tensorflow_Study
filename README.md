@@ -3,8 +3,12 @@ Tensor ≈ Study Group
 
 https://www.coursera.org/professional-certificates/tensorflow-in-practice
 
+* `To do` 스터디 후기 쓰기
+* `To do` 또 다른 스터디 참여하기 (~~스불재~~)
+* `To do` Tensorflow Certificate 취득하기
+
 ## Sequences, Time Series and Prediction - Week 3
-* 11/24 발표 예정
+* 스터디 발표 영상 : [Youtube link](https://youtu.be/3Z2oiKaRbRk)
 * Colab notebook
   + [RNN](RNN.ipynb)
   + [More_on_LSTM](More_on_LSTM.ipynb)
@@ -21,3 +25,4 @@ https://www.coursera.org/professional-certificates/tensorflow-in-practice
 * 스터디 발표 영상 : [Youtube link](https://youtu.be/pX4vj2Nlyro) 
 * Colab notebook
   + [CNN_in_Tensorflow](CNN_in_Tensorflow.ipynb)
+
