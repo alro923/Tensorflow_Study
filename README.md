@@ -3,8 +3,8 @@ Tensor ≈ Study Group
 
 https://www.coursera.org/professional-certificates/tensorflow-in-practice
 
-* `To do` 스터디 후기 쓰기
-* `To do` 또 다른 스터디 참여하기 (~~스불재~~)
+* `완료` 스터디 후기 쓰기 - 2020년 회고록
+* `진행 중` 또 다른 스터디 참여하기
 * `To do` Tensorflow Certificate 취득하기
 
 ## Sequences, Time Series and Prediction - Week 3
