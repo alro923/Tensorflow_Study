@@ -1,13 +1,11 @@
 # Tensorflow_Study
 Tensor ≈ Study Group
 
-https://www.coursera.org/professional-certificates/tensorflow-in-practice
+- [Tensorflow-in-practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) 를 기반으로 진행됐던 스터디입니다.
 
-## 공부하는 과정
-* `완료` 텐서 스터디 - [2020년도 회고록](https://uhhyunjoo.tistory.com/46)
-* `완료` 혼공단 5기 - [블로그 혼공단 카테고리](https://uhhyunjoo.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/%ED%98%BC%EA%B3%B5%EB%8B%A8)
-* `진행중` 캐글 스터디
-* `To do` Tensorflow Certificate 취득하기
+## 기록
+* `텐서 스터디 후기` : [2020년도 회고록](https://uhhyunjoo.tistory.com/46)
+* `언젠간 하겠지` : Tensorflow Certificate 취득
 
 ## Sequences, Time Series and Prediction - Week 3
 * 스터디 발표 영상 : [Youtube link](https://youtu.be/3Z2oiKaRbRk)
@@ -27,4 +25,5 @@ https://www.coursera.org/professional-certificates/tensorflow-in-practice
 * 스터디 발표 영상 : [Youtube link](https://youtu.be/pX4vj2Nlyro) 
 * Colab notebook
   + [CNN_in_Tensorflow](CNN_in_Tensorflow.ipynb)
+
 
